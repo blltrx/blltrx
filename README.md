@@ -1,5 +1,5 @@
-👋 Hi, I’m @blltrx, thats bellatrix. Sometimes I also go by rose, roze or sonya.
+👋 Hi, I’m @blltrx, thats bellatrix. Sometimes I also go by rose, roze or sonya. 🏳️‍⚧️🏳️‍🌈
 
-I'm a beginner programmer with some capability in python3, but I spend most my time working out how to bodge my way though fun little technical challenges!
+I'm a beginner programmer with some capability in python3.
 
-This github is mostly here to chuck the code for that on.
+This github is mostly here to chuck random code on.
